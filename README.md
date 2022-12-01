@@ -21,3 +21,4 @@ This files manages the generation and movement of all the cars
 
 ## Hope you enjoy this game 
 ## - Johnson
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/95334119/205100810-f7b45c7b-64a2-42a0-ab29-06f3485b2890.png">
