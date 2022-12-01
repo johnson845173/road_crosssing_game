@@ -29,4 +29,4 @@ Here are some of the game screenshot hope you enjoy playing
 
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/95334119/205101289-89112de6-1cee-4b8d-9fd6-6d384eb1b7c7.png">
 
-#Thank you
+# Thank you
